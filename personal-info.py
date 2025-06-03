@@ -1,6 +1,0 @@
-firstName = input("¿Cuál es tu primer nombre? ")
-lastName = input("¿Cuál es tu apellido? ")
-location = input("¿Cuál es tu localización? ")
-age = input("¿Cuál es tu edad? ")
-
-print("¡Hola " + firstName + " " + lastName + "! Tu ubicación es " + location + " y tienes " + age + " años.")
