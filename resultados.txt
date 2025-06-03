@@ -1,0 +1,7 @@
+Resultados de estudiantes:
+cruz: Calificaciones: [9.0], Promedio: 9.00
+ale: Calificaciones: [10.0], Promedio: 10.00
+iran: Calificaciones: [8.0], Promedio: 8.00
+raul: Calificaciones: [5.0], Promedio: 5.00
+
+Mejor estudiante: ale con promedio de 10.00
